@@ -1,0 +1,7 @@
+help.md
+/target
+.idea
+*.iws
+*.iml
+*.ipr
+errors.txt
